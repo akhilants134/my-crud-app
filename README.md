@@ -17,7 +17,7 @@ Every time I hit the gym, I couldn't remember what weight I lifted last session.
 ## Tech Stack
 
 - **Backend**: Node.js + Express + MongoDB
-- **Frontend**: Vanilla HTML, CSS, JavaScript  
+- **Frontend**: Vanilla HTML, CSS, JavaScript
 - **Deployed**: Render (backend) + Netlify (frontend)
 
 ## Live Deployment
@@ -61,6 +61,6 @@ Visit `http://localhost:5000`
 All four operations are implemented and tested:
 
 - **CREATE** (POST /workouts) - Log a new workout
-- **READ** (GET /workouts) - View all workouts  
+- **READ** (GET /workouts) - View all workouts
 - **UPDATE** (PUT /workouts/:id) - Edit a workout
 - **DELETE** (DELETE /workouts/:id) - Remove a workout
